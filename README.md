@@ -28,7 +28,7 @@
 
 <br>
 
-# How To Perfrom <h3><a href="https://abhishekrana.com/MagiPic/MagicalPic.jpg">🔗Magical Pic Link</a></h3>
+# How To Perfrom <a href="https://abhishekrana.com/MagiPic/MagicalPic.jpg">🔗 Magical Pic Link</a>
 <p align="center">
   <img width="30%" src="https://github.com/AbhishekRana21/MagiPic/blob/master/Screenshots/Screenshot4.jpg"/>
 </p>
