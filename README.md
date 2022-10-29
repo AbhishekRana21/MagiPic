@@ -1,4 +1,4 @@
-![GitHub Socialify](https://socialify.git.ci/AbhishekRana21/MagiPic/image?description=1&font=Source%20Code%20Pro&language=1&owner=1&pattern=Diagonal%20Stripes&theme=Dark)
+![GitHub Socialify](https://socialify.git.ci/AbhishekRana21/MagiPic/image?language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Dark)
 
 <div align="center">
 <h3>Welcome to the world of MagiPic</h3>
