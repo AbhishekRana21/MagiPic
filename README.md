@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-<img width="30%" src="https://github.com/AbhishekRana21/MagiPic/blob/master/Screenshots/Screenshot1.jpg)"/>
+<img width="30%" src="https://github.com/AbhishekRana21/MagiPic/blob/master/Screenshots/Screenshot1.jpg"/>
 </p>
 <p align="center">MagiPic is an app that adds magic to the camera of an android device.</p>
 
