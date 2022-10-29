@@ -1,11 +1,11 @@
 ![GitHub Socialify](https://socialify.git.ci/AbhishekRana21/MagiPic/image?description=1&pattern=Formal%20Invitation&theme=Dark)
 
 <div align="center">
-<h3>Welcome to the world of MagiPic</h3>
+  <h3>Welcome to the world of MagiPic</h3>
 </div>
 
 <p align="center">
-<img width="30%" src="https://github.com/AbhishekRana21/MagiPic/blob/master/Screenshots/Screenshot1.jpg"/>
+  <img width="30%" src="https://github.com/AbhishekRana21/MagiPic/blob/master/Screenshots/Screenshot1.jpg"/>
 </p>
 <p align="center">MagiPic is an app that adds magic to the camera of an android device.</p>
 
@@ -13,8 +13,11 @@
 
 ## Some Screenshots
 
-# Screenshot 1
-![picture](https://github.com/AbhishekRana21/MagiPic/blob/master/Screenshots/Screenshot2.jpg)
+<p align="center">
+  # Screenshot 1
+  <img width="30%" src="https://github.com/AbhishekRana21/MagiPic/blob/master/Screenshots/Screenshot2.jpg"/>
+</p>
+
 <br>
 
 # Screenshot 2
