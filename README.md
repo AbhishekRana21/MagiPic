@@ -13,8 +13,8 @@
 
 ## Some Screenshots
 
+# Screenshot 1
 <p align="center">
-  # Screenshot 1
   <img width="30%" src="https://github.com/AbhishekRana21/MagiPic/blob/master/Screenshots/Screenshot2.jpg"/>
 </p>
 
