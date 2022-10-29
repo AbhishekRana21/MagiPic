@@ -12,18 +12,44 @@
 <br>
 
 ## Some Screenshots
+<br>
 
-# Screenshot 1
+# Main Menu
 <p align="center">
   <img width="30%" src="https://github.com/AbhishekRana21/MagiPic/blob/master/Screenshots/Screenshot2.jpg"/>
 </p>
 
 <br>
 
-# Screenshot 2
-![picture](https://github.com/AbhishekRana21/MagiPic/blob/master/Screenshots/Screenshot3.jpg)
+# Magical Camera
+<p align="center">
+  <img width="30%" src="https://github.com/AbhishekRana21/MagiPic/blob/master/Screenshots/Screenshot3.jpg"/>
+</p>
+
 <br>
 
-# Screenshot 3
-![picture](https://github.com/AbhishekRana21/MagiPic/blob/master/Screenshots/Screenshot4.jpg)
+# How To Perfrom
+<p align="center">
+  <img width="30%" src="https://github.com/AbhishekRana21/MagiPic/blob/master/Screenshots/Screenshot4.jpg"/>
+</p>
+
 <br>
+
+# About Section
+<p align="center">
+  <img width="30%" src="https://github.com/AbhishekRana21/MagiPic/blob/master/Screenshots/Screenshot5.jpg"/>
+</p>
+
+<br>
+
+# Normal Camera Pic
+<p align="center">
+  <img width="30%" src="https://github.com/AbhishekRana21/MagiPic/blob/master/Screenshots/Screenshot6.jpg"/>
+</p>
+
+<br>
+
+# Magical Camera Pic (Replaced the previous image with new one)
+<p align="center">
+  <img width="30%" src="https://github.com/AbhishekRana21/MagiPic/blob/master/Screenshots/Screenshot7.jpg"/>
+</p>
