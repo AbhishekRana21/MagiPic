@@ -8,6 +8,7 @@
   <img width="30%" src="https://github.com/AbhishekRana21/MagiPic/blob/master/Screenshots/Screenshot1.jpg"/>
 </p>
 <p align="center">MagiPic is an app that adds magic to the camera of an android device.</p>
+<br><a href="https://abhishekrana.com/MagiPic/MagiPic.apk">🔗 APK Link</a>
 
 <br>
 
