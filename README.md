@@ -54,4 +54,3 @@
 <p align="center">
   <img width="30%" src="https://github.com/AbhishekRana21/MagiPic/blob/master/Screenshots/Screenshot7.png"/>
 </p>
-
