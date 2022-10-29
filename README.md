@@ -36,7 +36,7 @@
 
 <br>
 
-# About Section
+# About Section <a href="https://github.com/AbhishekRana21/MagiPic"> 🔗 GitHub Link</a>
 <p align="center">
   <img width="30%" src="https://abhishekrana.com/MagiPic/Screenshots/Screenshot5.jpg"/>
 </p>
