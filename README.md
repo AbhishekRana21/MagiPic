@@ -4,8 +4,10 @@
 <h3>Welcome to the world of MagiPic</h3>
 </div>
 
-![MagiPic Icon](https://github.com/AbhishekRana21/MagiPic/blob/master/Screenshots/Screenshot1.jpg)
-MagiPic is an app that adds magic to the camera of an android device.
+<p align="center">
+<img width="30%" src="https://github.com/AbhishekRana21/MagiPic/blob/master/Screenshots/Screenshot1.jpg)"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/>
+</p>
+<p align="center">MagiPic is an app that adds magic to the camera of an android device.</p>
 
 <br>
 
