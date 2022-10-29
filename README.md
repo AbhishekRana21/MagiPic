@@ -49,7 +49,7 @@
 
 <br>
 
-# Magical Camera Pic (Replaces the previous image with new one)
+# Magical Camera Pic (MagiPic replaced the previous image with new one)
 <p align="center">
   <img width="30%" src="https://github.com/AbhishekRana21/MagiPic/blob/master/Screenshots/Screenshot7.png"/>
 </p>
